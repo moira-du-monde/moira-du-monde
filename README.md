@@ -2,7 +2,7 @@
 
 I’m a PhD candidate in economic and urban geography at Kent State University in Ohio, USA.
   
-My research merges **complexity science with spatial analysis and modeling, and I use these tools to develop and test new theories in political economy.**
+My research merges **complexity science with spatial analysis and modeling**, and I use these tools to develop and test new theories in **political economy.**
 Ongoing research projects include 
        1) using gaming models to detect institutional sources of spatial inequality,
        2) state controls on foreign direct investment (FDI) in essential and/or geostrategic industries (with S. Bagchi-Sen), 
