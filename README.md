@@ -10,7 +10,7 @@ Ongoing research projects include
        4) the economics of political independence (with M. Gawrys), and
        5) the relationship between geopolitical and/or domestic instability and the spatial distribution of defense spending.
   
-I've also published on [human capital development (with S. Bagchi-Sen)]([url](https://link.springer.com/article/10.1007/s10708-022-10636-1)) and mapping complex disease networks (with J. Lee in *Spatiotemporal Analytics* forthcoming at CRC Press, a division of Taylor and Francis).
+I've also published on [human capital development (with S. Bagchi-Sen)]([url](https://link.springer.com/article/10.1007/s10708-022-10636-1)) and mapping complex disease networks (forthcoming with J. Lee).
 
 📫 I'm always excited to connect with folks with similar or complementary research interests.  Please drop me a line at moneil18@kent.edu if you would like to collaborate or chat.
 
