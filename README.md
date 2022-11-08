@@ -1,6 +1,6 @@
 👋 Hello, Bonjour, I’m Moira O'Neill (@moira-du-monde)
 
-I’m a PhD candidate in economic and urban geography at Kent State University in Ohio, USA.
+I’m a PhD candidate in geography at Kent State University in Ohio, USA.  My areas of concentration are Geographic Information Science (GIS) and urban and economic geography.
   
 My research merges **complexity science with spatial analysis and modeling**, and I use these tools to develop and test new theories in **political economy.**
 Ongoing research projects include 
