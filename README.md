@@ -2,7 +2,7 @@
 
 I’m a geospatial data scientist splitting time between Ohio and NY.
 
-📫 I'm always excited to connect with folks with similar or complementary research interests.  Please drop me a line at moira@arriveanalytics.com if you would like to collaborate or chat.
+📫 I'm always excited to connect with folks with similar or complementary research interests.  Please drop me a line at moira@arriveGIS.com if you would like to collaborate or chat.
 
 <!---
 moira-du-monde/moira-du-monde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
